@@ -1,0 +1,3 @@
+login = swag123 ; password = 12312423534.
+login = swag ; password = qwerty.
+login = swag; password = qwerty.
